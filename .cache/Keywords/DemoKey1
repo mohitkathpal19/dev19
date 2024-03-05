@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "4F1893B433A83865F5D1F98CCD24C2FC",
+  "keywordClasses": [
+    {
+      "name": "DemoKey1",
+      "keywordMethods": [
+        {
+          "name": "hello",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

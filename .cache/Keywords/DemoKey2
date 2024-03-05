@@ -1,0 +1,35 @@
+{
+  "keywordFileContentHash": "3F62B03E8EDA50E3EAF8981AC695E003",
+  "keywordClasses": [
+    {
+      "name": "DemoKey2",
+      "keywordMethods": [
+        {
+          "name": "hello2",
+          "parameters": [
+            {
+              "name": "user",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "shortcut",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
